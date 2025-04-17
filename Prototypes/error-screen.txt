@@ -1,0 +1,12 @@
+Screen 1: Home Screen  
+Box (bottom right): Yellow, round “Log Attendance” button with a ‘man raising hands’ icon, no text.  
+
+Text (top center): “Welcome, [Staff Name]”.
+
+Screen 2: Attendance Error (invalid geotag)  
+Text (center): “Could not confirm location—please ensure you’re at the worksite.”  
+
+Box (bottom): “OK” button to return to Home Screen.
+
+Flow: Tap “Log Attendance” → App checks geotag → If invalid, show error screen → Tap “OK” → Back to Home.
+
