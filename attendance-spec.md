@@ -1,0 +1,3 @@
+Overview: This construction management app tracks staff attendance to ensure accurate worksite presence.  
+Requirement: As a staff member, I want to log my attendance so the business owner knows I’m on-site. A yellow, round “Log Attendance” button (bottom right, ‘man raising hands’ icon) checks 9-10 AM local time and geotag; if valid, it marks ‘Present’ and shows “You have marked your attendance for today” and “All the best, have a productive day.” If after 10 AM, radio buttons (‘Sick,’ ‘Official Visit,’ ‘Supervisor Approved,’ ‘Other’ with a 200-character text box) capture delay reasons, logged in a 10:45 AM spreadsheet for the owner.  
+
